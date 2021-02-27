@@ -8,7 +8,7 @@
 This is an app that contains one flashcard. The question is "Who is the 46th President of the United States." The answer is "Joseph R. Biden."
 
 ### App Walk-though
-<img src="https://user-images.githubusercontent.com/77374513/109373137-2ad75e00-787b-11eb-9570-75f80ed903ef.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/77374513/109373137-2ad75e00-787b-11eb-9570-75f80ed903ef.gif" width=500><br>
 
 
 ## Required
