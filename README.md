@@ -32,7 +32,7 @@ This is an app that contains one flashcard. The question is "Who is the 46th Pre
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+This Adds a functionality where you can replace the existing flashcard with something new.
 
 ### App Walk-though
 <img src="https://user-images.githubusercontent.com/77374513/111794427-96ba4e80-889c-11eb-851a-7ec75421ef00.gif" width=500><br>
