@@ -1,6 +1,6 @@
 
 
-## NAME_OF_YOUR_APP_HERE
+## Flash Card App
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
 
@@ -36,7 +36,7 @@ This is an app that contains one flashcard. The question is "Who is the 46th Pre
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://user-images.githubusercontent.com/77374513/111794427-96ba4e80-889c-11eb-851a-7ec75421ef00.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/77374513/111794427-96ba4e80-889c-11eb-851a-7ec75421ef00.gif" width=500><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
