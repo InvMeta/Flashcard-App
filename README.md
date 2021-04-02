@@ -1,8 +1,5 @@
-
-
 ## Flash Card App
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
 
 ## Lab 1
 
@@ -27,7 +24,6 @@ This is an app that contains one flashcard. The question is "Who is the 46th Pre
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [ ] Further customize and style the card
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 2
 
@@ -53,19 +49,16 @@ This Adds a functionality where you can replace the existing flashcard with some
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
+The App can now remember flashcards that you have added previously
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://user-images.githubusercontent.com/77374513/113423879-42839400-939d-11eb-8d55-c549dc873bc6.gif" width=500><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
